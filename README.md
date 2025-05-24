@@ -4,9 +4,14 @@ This repository contains all the projects I completed during my internship with 
 
 ---
 PRESENT IN RAR FILES AND ALSO UPLOADED ON PERSONAL GITHUB
-Video Object Detection : (https://github.com/Bilal-73/YOLOv8-Real-Time-Video-Object-Detection-with-Flask)
+
+Video Object Detection : (https://github.com/Bilal-73/YOLOv8-Real-Time-Video-Object-Detection-with-Flask) 
+
 ChatBot FAQS : (https://github.com/Bilal-73/ChatBotFAQs)
-MultiLang Translator " (https://github.com/Bilal-73/MultiLang-Translator-using-DeepTranslator-Deep)
+
+MultiLang Translator " (https://github.com/Bilal-73/MultiLang-Translator-using-DeepTranslator-Deep)                                                                                          
+
+
 ## 
 ## 🚀 Projects
 
@@ -18,7 +23,7 @@ A Flask-based web application that allows users to translate text between multip
   - Translate between English, French, German, Hindi, Spanish, Italian
   - Error handling for missing input or same language selection
   - Simple, clean web UI
-- 🔗 **GitHub:** [[MultiLang Translator Repo](https://github.com/Bilal-73/MultiLang-Translator-using-DeepTranslator-Deep)
+- 🔗 **GitHub:** [[MultiLang Translator Repo](https://github.com/Bilal-73/MultiLang-Translator-using-DeepTranslator-Deep)]
 
 ---
 
@@ -30,7 +35,7 @@ This project performs real-time object detection on video input using the YOLOv8
   - Detects multiple objects in real-time video streams
   - Displays bounding boxes and class labels
   - Supports webcam or video file input
-- 🔗 **GitHub:** [YOLOv8 Object Detection Repo]((https://github.com/Bilal-73/YOLOv8-Real-Time-Video-Object-Detection-with-Flask))
+- 🔗 **GitHub:** [YOLOv8 Object Detection Repo](https://github.com/Bilal-73/YOLOv8-Real-Time-Video-Object-Detection-with-Flask)]
 
 ---
 
@@ -42,7 +47,7 @@ A simple chatbot that answers frequently asked questions using cosine similarity
   - Matches user queries to the closest predefined question
   - Returns relevant answers from a FAQ dataset
   - Lightweight and easy to extend
-- 🔗 **GitHub:** [FAQ Chatbot Repo]((https://github.com/Bilal-73/ChatBotFAQs))
+- 🔗 **GitHub:** [FAQ Chatbot Repo](https://github.com/Bilal-73/ChatBotFAQs)]
 
 ---
 
