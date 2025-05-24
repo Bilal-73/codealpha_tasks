@@ -55,7 +55,7 @@ A simple chatbot that answers frequently asked questions using cosine similarity
 All these tasks were completed as part of my internship at **CodeAlpha**.
 
 ## 📬 Contact
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(add your link here)*
-- 💻 [GitHub](https://github.com/your-username)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bilalimran73ai) *(add your link here)*
+- 💻 [GitHub](https://github.com/Bilal-73)
 
 ---
